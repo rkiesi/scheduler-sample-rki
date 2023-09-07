@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.6"?>
+
+<target name="bw-runtime">
+<locations>
+
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/amqp/6.3//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/amqp/6.3//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/bwdcp/4.7//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/bwdcp/4.7//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/amazons3/6.5//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/amazons3/6.5//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/excel/6.1//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/excel/6.1//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/files/8.3//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/files/8.3//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/googlepubsub/6.0//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/googlepubsub/6.0//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/kafka/6.7//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/kafka/6.7//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/ldap/7.3//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/ldap/7.3//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/lx/6.1//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/lx/6.1//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/sap/8.6//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/sap/8.6//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/sharepoint/6.4//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/sharepoint/6.4//runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/sp/6.1//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/TIBCOSW/BWCE-281/bwce/palettes/sp/6.1//runtime/plugins" type="Directory"/>
+
+
+<location path="C:/TIBCOSW/BWCE-281/bwce/2.8/system/hotfix/lib/common" type="Directory"/>
+<location path="C:/TIBCOSW/BWCE-281/bwce/2.8/system/lib/common" type="Directory"/>
+
+<location path="C:/TIBCOSW/BWCE-281/bwce/2.8/system/hotfix/palettes" type="Directory"/>
+<location path="C:/TIBCOSW/BWCE-281/bwce/2.8/system/palettes" type="Directory"/>
+
+<location path="C:/TIBCOSW/BWCE-281/bwce/2.8/system/hotfix/shared" type="Directory"/>
+<location path="C:/TIBCOSW/BWCE-281/bwce/2.8/system/shared" type="Profile"/>
+</locations>
+</target>
